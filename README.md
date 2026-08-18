@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nabia Qaisar
 
-<!--
-**nabiaqaisar/NabiaQaisar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student | Frontend Developer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineering student interested in frontend development and web design.
+
+I enjoy building responsive and user-friendly websites using HTML, CSS, and JavaScript.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- GitHub
+
+## Projects
+
+I am currently working on frontend development projects and internship tasks.
+
+## Contact
+
+GitHub: @nabiaqaisar
+
